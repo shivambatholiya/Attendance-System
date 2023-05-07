@@ -1,0 +1,99 @@
+[
+  {
+    "inconclusive": false,
+    "incomplete": false,
+    "inTime": "9:00 am",
+    "outTime": "6:00 pm",
+    "deductions": [
+      {
+        "inTime": "9:00 am",
+        "outTime": null,
+        "deduction": "0"
+      },
+      {
+        "outTime": "1:00 pm",
+        "inTime": "1:30 pm",
+        "deduction": "0"
+      },
+      {
+        "outTime": "6:00 pm",
+        "inTime": null,
+        "deduction": "0"
+      }
+    ]
+  },
+
+  {
+    "inconclusive": false,
+    "incomplete": true,
+    "inTime": "9:00 am",
+    "deductions": [
+      {
+        "inTime": "9:00 am",
+        "outTime": null,
+        "deduction": "0"
+      },
+      {
+        "outTime": "1:00 pm",
+        "inTime": "1:30 pm",
+        "deduction": "0"
+      }
+    ]
+  },
+  {
+    "inconclusive": true,
+    "incomplete": false,
+    "inTime": "9:00 am",
+    "outTime": "6:00 pm",
+    "deductions": [
+      {
+        "inTime": "9:00 am",
+        "outTime": null,
+        "deduction": "0"
+      },
+      {
+        "outTime": "1:00 pm",
+        "inTime": "1:30 pm",
+        "deduction": "0"
+      },
+      {
+        "outTime": "6:00 pm",
+        "inTime": null,
+        "deduction": "0"
+      },
+      {
+        "inTime": "6:00 pm",
+        "outTime": null,
+        "deduction": "0"
+      }
+    ]
+  },
+  {
+    "inconclusive": true,
+    "incomplete": false,
+    "inTime": "9:00 am",
+    "outTime": "6:00 pm",
+    "deductions": [
+      {
+        "inTime": "9:00 am",
+        "outTime": null,
+        "deduction": "0"
+      },
+      {
+        "inTime": "1:00 pm",
+        "outTime": "1:30 pm",
+        "deduction": "0"
+      },
+      {
+        "outTime": "6:00 pm",
+        "inTime": null,
+        "deduction": "0"
+      },
+      {
+        "inTime": "6:00 pm",
+        "outTime": null,
+        "deduction": "0"
+      }
+    ]
+  }
+]

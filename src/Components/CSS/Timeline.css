@@ -1,0 +1,83 @@
+.outer-container {
+    width: 79%;
+    margin-top: 75px;
+}
+.circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 2px solid black;
+    background-color: rgb(210, 207, 207);
+    position: absolute;
+    top: 20px;
+    right: 35px;
+}
+.outer-container span {
+    margin-left: 20px;
+    font-size: 12px;
+}
+.inner-container {
+    width: 93%;
+    height: 77vh;
+    background-color: rgb(220, 216, 216);
+    margin-top: 5px;
+    margin-left: 20px;
+    border-radius: 15px;
+    padding: 15px;
+    display: flex;
+    position: relative;
+}
+.left-container {
+    background-color: white;
+    width: 65%;
+    height: 100%;
+    border-radius: 15px;
+    text-align: center;
+}
+.right-container {
+    background-color: white;
+    width: 35%;
+    height: 50%;
+    margin-left: 15px;
+    border-radius: 15px;
+    position: relative;
+}
+.inner-container > span {
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.left-container h2 {
+    margin-top: 25px;
+    color: rgb(209, 116, 116);
+}
+.right-container h2 {
+    text-align: center;
+    margin-top: 25px;
+    color: rgb(209, 116, 116);
+}
+.todays-detail {
+    margin-top: 20px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    line-height: 40px;
+}
+
+.timeline-container {
+    /* background-color: bisque; */
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: 40px 0;
+}
+/* .timeline-container::after {
+    content: '';
+    background-color: rgb(0, 0, 0);
+    width: 2px;
+    height: 100%;
+    position: absolute;
+    left: calc(50% - 1px);
+} */

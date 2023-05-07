@@ -1,0 +1,47 @@
+.employee-container {
+    width: 21%;
+    background-color: rgb(211, 120, 120);
+    color: white;
+    padding: 20px;
+    position: relative;
+}
+
+.fb-button {
+    margin-block: 10px;
+    margin-inline: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.fb-button i img {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.fb-button button {
+    width: 40px;
+    height: 40px;
+}
+
+.employee-container img {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 20px;
+    border-radius: 50%;
+}
+.details {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 20px;
+    line-height: 30px;
+}
+.date {
+    position: absolute;
+    bottom: 100px;
+    left: 100px;
+    line-height: 30px;
+}
