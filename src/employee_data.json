@@ -1,0 +1,267 @@
+[
+  {
+    "id": "11912024",
+    "name": "Shivam Batholiya",
+    "phone": "9644962826",
+    "profile": "image2.jpg",
+    "details": {
+      "Scan Type": "Face Scan",
+      "Machine Id": 101267,
+      "Total Time": "9 Hours"
+    },
+    "data": [
+      {
+        "date": "07-05-2023",
+        "inconclusive": false,
+        "incomplete": false,
+        "inTime": "9:00 am",
+        "outTime": "6:00 pm",
+        "deductions": [
+          {
+            "inTime": "9:00 am",
+            "outTime": null,
+            "deduction": "0"
+          },
+          {
+            "outTime": "1:00 pm",
+            "inTime": "1:30 pm",
+            "deduction": "0"
+          },
+          {
+            "outTime": "6:00 pm",
+            "inTime": null,
+            "deduction": "0"
+          }
+        ]
+      },
+      {
+        "date": "08-05-2023",
+        "inconclusive": false,
+        "incomplete": true,
+        "inTime": "9:00 am",
+        "deductions": [
+          {
+            "inTime": "9:00 am",
+            "outTime": null,
+            "deduction": "0"
+          },
+          {
+            "outTime": "1:00 pm",
+            "inTime": "1:30 pm",
+            "deduction": "0"
+          }
+        ]
+      },
+      {
+        "date": "09-05-2023",
+        "inconclusive": true,
+        "incomplete": false,
+        "inTime": "9:00 am",
+        "outTime": "6:00 pm",
+        "deductions": []
+      },
+      {
+        "date": "10-05-2023",
+        "inconclusive": true,
+        "incomplete": false,
+        "inTime": "9:00 am",
+        "outTime": "6:00 pm",
+        "deductions": [
+          {
+            "inTime": "9:00 am",
+            "outTime": null,
+            "deduction": "0"
+          },
+          {
+            "inTime": "1:00 pm",
+            "outTime": "1:30 pm",
+            "deduction": "0"
+          },
+          {
+            "outTime": "6:00 pm",
+            "inTime": null,
+            "deduction": "0"
+          },
+          {
+            "inTime": "6:00 pm",
+            "outTime": null,
+            "deduction": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "11912024",
+    "name": "Shubham Verma",
+    "phone": "9644962826",
+    "profile": "image2.jpg",
+    "details": {
+      "Scan Type": "Finger Prints",
+      "Machine Id": 101648,
+      "Total Time": "9 Hours"
+    },
+    "data": [
+      {
+        "date": "07-05-2023",
+        "inconclusive": false,
+        "incomplete": false,
+        "inTime": "9:00 am",
+        "outTime": "6:00 pm",
+        "deductions": []
+      },
+      {
+        "date": "08-05-2023",
+        "inconclusive": false,
+        "incomplete": true,
+        "inTime": "9:00 am",
+        "deductions": [
+          {
+            "inTime": "10:00 am",
+            "outTime": null,
+            "deduction": "0"
+          },
+          {
+            "outTime": "12:00 pm",
+            "inTime": "1:30 pm",
+            "deduction": "0"
+          }
+        ]
+      },
+      {
+        "date": "09-05-2023",
+        "inconclusive": true,
+        "incomplete": false,
+        "inTime": "9:00 am",
+        "outTime": "6:00 pm",
+        "deductions": []
+      },
+      {
+        "date": "10-05-2023",
+        "inconclusive": true,
+        "incomplete": false,
+        "inTime": "9:00 am",
+        "outTime": "6:00 pm",
+        "deductions": [
+          {
+            "inTime": "9:00 am",
+            "outTime": null,
+            "deduction": "0"
+          },
+          {
+            "inTime": "1:00 pm",
+            "outTime": "1:30 pm",
+            "deduction": "0"
+          },
+          {
+            "outTime": "6:00 pm",
+            "inTime": null,
+            "deduction": "0"
+          },
+          {
+            "inTime": "6:00 pm",
+            "outTime": null,
+            "deduction": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "11912024",
+    "name": "Akash Singh",
+    "phone": "9644923456",
+    "profile": "image2.jpg",
+    "details": {
+      "Scan Type": "Face Scan",
+      "Machine Id": 101294,
+      "Total Time": "9 Hours"
+    },
+    "data": [
+      {
+        "date": "07-05-2023",
+        "inconclusive": false,
+        "incomplete": false,
+        "inTime": "9:00 am",
+        "outTime": "6:00 pm",
+        "deductions": [
+          {
+            "inTime": "9:30 am",
+            "outTime": null,
+            "deduction": "0"
+          },
+          {
+            "outTime": "12:00 pm",
+            "inTime": "12:30 pm",
+            "deduction": "0"
+          },
+          {
+            "outTime": "6:00 pm",
+            "inTime": null,
+            "deduction": "0"
+          }
+        ]
+      },
+      {
+        "date": "08-05-2023",
+        "inconclusive": false,
+        "incomplete": true,
+        "inTime": "9:00 am",
+        "deductions": []      
+      },
+      {
+        "date": "09-05-2023",
+        "inconclusive": true,
+        "incomplete": false,
+        "inTime": "9:00 am",
+        "outTime": "6:00 pm",
+        "deductions": [
+          {
+            "inTime": "9:00 am",
+            "outTime": null,
+            "deduction": "0"
+          },
+          {
+            "outTime": "1:00 pm",
+            "inTime": "1:30 pm",
+            "deduction": "0"
+          },
+          {
+            "outTime": "6:00 pm",
+            "inTime": null,
+            "deduction": "0"
+          }
+        ]
+      },
+      {
+        "date": "10-05-2023",
+        "inconclusive": true,
+        "incomplete": false,
+        "inTime": "9:00 am",
+        "outTime": "6:00 pm",
+        "deductions": [
+          {
+            "inTime": "9:00 am",
+            "outTime": null,
+            "deduction": "0"
+          },
+          {
+            "inTime": "1:00 pm",
+            "outTime": "1:30 pm",
+            "deduction": "0"
+          },
+          {
+            "outTime": "6:00 pm",
+            "inTime": null,
+            "deduction": "0"
+          },
+          {
+            "inTime": "6:00 pm",
+            "outTime": null,
+            "deduction": "0"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -2,7 +2,7 @@
     width: 79%;
     margin-top: 75px;
 }
-.circle {
+.gray-circle {
     width: 30px;
     height: 30px;
     border-radius: 50%;
@@ -81,3 +81,35 @@
     position: absolute;
     left: calc(50% - 1px);
 } */
+.fb-button .current-date {
+    font-size: 22px;
+    font-weight: 600;
+    margin-left: 0px;
+}
+
+.fb-button {
+    margin-block: 10px;
+    margin-inline: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.timeline-container .no-data {
+    font-size: 30px;
+    color: red;
+}
+
+/* scroll ke liye */
+.left-container {
+    overflow-y: scroll;
+  }
+  .timeline-container-header {
+    position: sticky;
+    top: 0px;
+    padding: 5px;
+    background-color: white;
+    /* z-index: 5; */
+  }
+  .timeline-container {
+    z-index: 4;
+  }
+                            

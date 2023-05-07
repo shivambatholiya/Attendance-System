@@ -5,8 +5,10 @@
     /* background-color: aqua; */
     padding-right: 30px;
     width: calc(50% - 30px);
-
 }
+/* .div1 {
+    overflow-y: scroll;
+} */
 .timeline-item-content {
     /* background-color: antiquewhite; */
     max-width: 80%;

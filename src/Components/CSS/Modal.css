@@ -12,12 +12,13 @@
 
 .modal-container {
     width: 400px;
-    height: 500px;
+    height: 400px;
     background-color: rgb(255, 255, 255);
     border-radius: 6px;
     position: fixed;
-    top: calc(50% - 250px);
+    top: calc(50% - 200px);
     left: calc(50% - 200px);
+    /* z-index: 110; */
 }
 .modal-header {
     display: flex;
@@ -34,4 +35,15 @@
     margin-top: -10px;
     margin-right: 5px;
     cursor: pointer;
+}
+.modal-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.modal-content h2 {
+    color: rgb(54, 47, 47);
+    line-height: 12px;
 }
